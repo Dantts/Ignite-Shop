@@ -8,7 +8,7 @@ Basically this project is a list of the products, where have a simple list of th
 # Run project
 
 Basically to run the project, you just need to use the command `npm install` or `yarn to install` to install the project dependencies.
-With the dependencies installed, you just need to run `npm run dev` or `yarn dev` to start the project in the development environment 
+With the dependencies installed, you just need to run `npm run start` or `yarn start` to start the project in the development environment 
 and run `npm run server` or `yarn server` to start the local backend server to list the movies.
 
 **To install the project dependencies is necessary to know which package manager is installed on your computer.
